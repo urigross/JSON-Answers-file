@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "answers": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "yes"
     }
   ],
   "profile": {
